@@ -14,6 +14,6 @@ The latest news you can find at our [VK group](http://vk.com/guildwars2_oldwar).
 
 ### STUFF:
 
-* [Packet Reversing](https://github.com/EuCasty/research/wiki/_pages)
+* [Packet Reversing](https://github.com/OldWar/research/wiki/_pages)
 
 > ## (C) OLDWAR-TEAM
